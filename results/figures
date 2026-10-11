@@ -1,0 +1,17 @@
+All modules imported successfully!
+Logical circuit successfully built with 5 qubits and depth 7.
+--- PROCESSOR A METRICS ---
+  depth: 10
+  num_qubits: 5
+  total_ops: 30
+  two_qubit_ops_estimate: 4
+  swap_count: 0
+  operations: {'rz': 12, 'sx': 9, 'measure': 5, 'cx': 4}
+
+--- PROCESSOR B METRICS ---
+  depth: 24
+  num_qubits: 5
+  total_ops: 51
+  two_qubit_ops_estimate: 4
+  swap_count: 0
+  operations: {'rz': 25, 'sx': 17, 'measure': 5, 'cx': 4}
